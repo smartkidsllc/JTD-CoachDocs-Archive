@@ -1,8 +1,10 @@
-title: Codewiz Documentation
+title: Codewiz
 description: Docs for Codewiz coaches
 theme: just-the-docs
 
 url: https://docs.smartkidsllc.com
+
+color_scheme: dark
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
