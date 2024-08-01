@@ -8,4 +8,4 @@ url: https://docs.smartkidsllc.com
 color_scheme: dark
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Toggle Theme: "javascript:jtd.setTheme(jtd.getTheme() == 'dark' ? 'light' : 'dark')"
