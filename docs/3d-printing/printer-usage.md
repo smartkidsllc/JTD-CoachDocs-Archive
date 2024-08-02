@@ -1,8 +1,7 @@
 ---
-title: Using a 3D Printer
+title: 3D Printing
 layout: default
-parent: Docs
-nav_order: 1
+parent: Classes
 ---
 
 # Using a 3D Printer

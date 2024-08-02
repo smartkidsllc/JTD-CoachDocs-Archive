@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: default
-parent: Docs
+parent: Classes
 nav_order: 1
 ---
 
