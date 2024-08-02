@@ -5,4 +5,4 @@ parent: Classes
 nav_order: 1
 ---
 
-Welcome to Code Wiz!
+Welcome to the Smart Kids Docs!
