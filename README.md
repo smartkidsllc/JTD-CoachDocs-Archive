@@ -14,6 +14,10 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
     The built site is stored in the directory `_site`.
 
+## Contributing
+
+If you want to contribute to this repo, then please take a look at [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
 ## Licensing and Attribution
 
 This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license.
